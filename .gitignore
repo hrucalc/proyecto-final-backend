@@ -1,0 +1,9 @@
+# Ignorar carpetas de dependencias
+venv/
+app/__pycache__/
+
+# Ignorar base de datos
+proyectoia.db
+
+# Ignorar imagen de comparacion
+temp.jpg
